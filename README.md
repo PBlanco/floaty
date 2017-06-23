@@ -16,3 +16,7 @@ npm install
 # Run the app
 npm start
 ```
+
+![floaty example](./example.png)
+
+[Original link to live camera](http://explore.org/live-cams/player/brown-bear-salmon-cam-brooks-falls)
