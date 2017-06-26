@@ -4,7 +4,8 @@
   "description": "A way to watch bears eat salmon",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "start-h": "electron . > ignore &"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
