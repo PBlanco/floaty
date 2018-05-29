@@ -16,6 +16,9 @@
     "demo"
   ],
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "^2.0.2"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
   }
 }
